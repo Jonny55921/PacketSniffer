@@ -1,0 +1,4 @@
+echo "logs/" >> .gitignore
+git add .gitignore
+git commit -m "Ignore logs directory"
+git pushlogs/
